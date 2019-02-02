@@ -3,12 +3,13 @@
 Web App which allows users to register, vote registered users, and record the transactions to a local blockchain or Kovan Test Network.
 
 ## Dependencies
-
+Follow the links and download it. Follow the instructions on how to download on Windows, Mac, or Linux.
 - NPM: https://nodejs.org
 - Truffle: https://github.com/trufflesuite/truffle
 - Ganache: http://truffleframework.com/ganache/
 - Metamask: https://metamask.io/
 - Infura: https://infura.io/
+- MongoDB: (Windows) https://docs.mongodb.com/v3.2/ or (Mac) https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-os-x/
 
 ## Step 1. Clone the project
 
