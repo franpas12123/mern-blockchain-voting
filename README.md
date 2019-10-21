@@ -1,6 +1,6 @@
 # Voting
 
-Web App which allows users to register, vote registered users, and record the transactions to a local blockchain or Kovan Test Network.
+Web App which allows users to vote registered users, and record the transactions to a local blockchain or Kovan Test Network. Registered users will be stored in MongoDB. This method is called an off-chain database.
 
 ## Dependencies
 Follow the links and download it. Follow the instructions on how to download on Windows, Mac, or Linux.
